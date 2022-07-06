@@ -9,7 +9,6 @@ const StarMatch = () => {
 export default StarMatch;
 
 export function App() {
-  return (
-    <StarMatch path="/" />
+  return ( <StarMatch path="/" />
   );
 }
